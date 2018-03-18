@@ -4,6 +4,7 @@ gcc-
 
 # Test source
 *.c-
+lex.yy.c
 
 # Prerequisites
 *.d
