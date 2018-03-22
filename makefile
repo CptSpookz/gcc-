@@ -11,9 +11,6 @@ scanner:
 
 all: scanner
 
-run:
-	./$(OUT)
-
 .PHONY: clean
 
 clean: 
